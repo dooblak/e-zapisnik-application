@@ -35,4 +35,4 @@ Tema ovog diplomskog rada je „Razvoj aplikacije e-zapisnik za praćenje košar
 
 <h2></h2>
 
-Diplomski rad u pisanom obliku: [priložena dokumentacija završnog rada](https://github.com/mstjepan28/moja_praksa_frontend/blob/master/STJEPAN%20MARKOV%C4%8CI%C4%86%20-%20RAZVOJ%20WEB%20PLATFORME%20ZA%20UGOVARANJE%20STRU%C4%8CNE%20PRAKSE%20-%20FRONTEND.pdf)
+Diplomski rad u pisanom obliku: [priložena dokumentacija završnog rada](https://github.com/dooblak/e-zapisnik-application/blob/master/oblak_domagoj_diplomski_rad.pdf)
