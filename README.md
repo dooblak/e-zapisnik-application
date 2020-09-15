@@ -11,7 +11,7 @@ Komentor: doc. dr. sc. Nikola Tanković
 
 Sveučilište Jurja Dobrile u Puli, Fakultet informatike
 
-
+<h2></h2>
 
 
 <b>Sažetak</b>
